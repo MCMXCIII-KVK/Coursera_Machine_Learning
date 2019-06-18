@@ -2,5 +2,5 @@ Courseraのコース「機械学習」のプログラミング課題をPythonで
 
 参考文献：
 
-[Ng] Andrew Ng, Coursera "Machine Learning" https://www.coursera.org/learn/machine-learning
-[Amari, 2016] Shun-ichi Amari, "Information Geometry and Its Applications"
+"[Ng]" Andrew Ng, Coursera "Machine Learning" https://www.coursera.org/learn/machine-learning
+"[Amari, 2016]" Shun-ichi Amari, "Information Geometry and Its Applications"
